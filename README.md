@@ -17,3 +17,7 @@ Minimax is a kind of backtracking algorithm that is used in decision making and 
 
 
 FOR MORE INFO PLEASE READ THE PPT ATTACHED ABOVE.
+
+
+
+I BET YOU, YOU WILL STRUGGLE HARD TO WIN THIS GAME.
