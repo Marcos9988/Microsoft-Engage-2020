@@ -11,3 +11,8 @@ AI version of this game is worked on the Minimax Algorithm.
 Minimax Algorithm:
 
 Minimax is a decision rule used in artificial intelligence, decision theory, game theory, statistics, and philosophy for minimizing the possible loss for a worst case scenario. When dealing with gains, it is referred to as "maximin"—to maximize the minimum gain.
+
+
+
+
+For More Inforation About the Project Please refer to the Attached PPT. It will Give you the insight of how Minimax Algorithm work.
